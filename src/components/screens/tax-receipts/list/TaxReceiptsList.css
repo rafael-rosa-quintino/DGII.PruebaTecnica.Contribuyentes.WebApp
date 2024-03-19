@@ -1,0 +1,9 @@
+tr:nth-child(even) {
+    background-color: #eaeaea;
+  }
+
+
+thead > tr th {
+    color: white !important;
+    background-color: green !important;
+}
